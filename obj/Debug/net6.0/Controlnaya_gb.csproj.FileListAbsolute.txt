@@ -1,0 +1,15 @@
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.csproj.AssemblyReference.cache
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.AssemblyInfoInputs.cache
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.AssemblyInfo.cs
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.csproj.CoreCompileInputs.cache
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\bin\Debug\net6.0\Controlnaya_gb.exe
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\bin\Debug\net6.0\Controlnaya_gb.deps.json
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\bin\Debug\net6.0\Controlnaya_gb.runtimeconfig.json
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\bin\Debug\net6.0\Controlnaya_gb.dll
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\bin\Debug\net6.0\Controlnaya_gb.pdb
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.dll
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\refint\Controlnaya_gb.dll
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.pdb
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\Controlnaya_gb.genruntimeconfig.cache
+C:\Users\Гроб\Desktop\Coding\Repositories\GBRepositories\Control_GB\Controlnaya_gb\obj\Debug\net6.0\ref\Controlnaya_gb.dll
