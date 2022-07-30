@@ -15,5 +15,5 @@ for (int i = 0; i < mass.Length; i++)
     mass[i] = (Console.ReadLine());
 }
 Print(mass);
-var mass2 = mass.Where(x=>x.Length <= 3).ToArray();
+string[] mass2 = mass.Where(x => x.Length <= 3).ToArray();
 Print(mass2);
